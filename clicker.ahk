@@ -1,0 +1,43 @@
+#Requires AutoHotkey v2.0
+#SingleInstance Force
+
+1::{
+    SendEvent("1")
+    Click()
+}
+2::{
+    SendEvent("2")
+    Click()
+}
+3::{
+    SendEvent("3")
+    Click()
+}
+4::{
+    SendEvent("4")
+    Click()
+}
+5::{
+    SendEvent("5")
+    Click()
+}
+6::{
+    SendEvent("6")
+    Click()
+}
+7::{
+    SendEvent("7")
+    Click()
+}
+8::{
+    SendEvent("8")
+    Click()
+}
+9::{
+    SendEvent("9")
+    Click()
+}
+0::{
+    SendEvent("0")
+    Click()
+}
